@@ -29,4 +29,4 @@ This project is a GitHub Action that integrates with Jira to create issues based
    - Navigate to `Settings > Secrets`.
    - Add the following secrets:
      - `JIRA_BASE_URL`: Your Jira instance URL.
-     - jhjhvjvjhvh
+       
